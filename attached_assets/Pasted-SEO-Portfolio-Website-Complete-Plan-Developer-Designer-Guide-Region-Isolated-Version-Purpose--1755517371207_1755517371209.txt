@@ -1,0 +1,160 @@
+SEO Portfolio Website Complete Plan (Developer/Designer Guide) - Region Isolated Version
+
+Purpose:
+এই ডকুমেন্টটি এমনভাবে তৈরি করা হয়েছে যাতে একজন ডেভেলপার বা ওয়েব ডিজাইনার পুরো ওয়েবসাইট বানাতে পারে যেখানে US, UK, এবং Italy এর প্রতিটি region completely isolated থাকবে। প্রতিটি page আলাদা keyword focus, section structure, CTA, এবং design instructions অনুযায়ী বানানো হবে। Blog page থাকবে না।
+
+Owner / About Info:
+
+* Name: Fatema Akter
+* Phone: 01516089599
+* WhatsApp popup: Active on all pages
+
+Scroll-to-Top Button:
+
+* Fixed button at bottom of the page
+* Click scrolls smoothly to top
+
+---
+
+1. Home Page (10 Sections)
+
+Hero Section
+
+* Headline: “Top Local SEO Expert – US, UK & Italy”
+* Subheadline: “Boost Your Local Business Visibility Today”
+* CTA Button: “Get a Free SEO Audit” → links to Contact page
+* Keywords: top local seo expert, local seo expert near me
+
+About Preview
+
+* Short intro + Read More → About page
+* Keywords: local seo expert, seo expert for local businesses
+
+Services Overview
+
+* 4 main services: On-Page SEO, Off-Page SEO, Local SEO, Technical SEO
+* CTA: “View All Services” → Services page
+* Keywords: local seo citation expert, expert local seo tools
+
+Region Highlights / Links
+
+* Cards/buttons: US, UK, Italy → link to respective region page
+* Action: short description & region-specific icon/image
+
+Portfolio Preview
+
+* 3-4 featured projects for all regions, but clearly labeled by region
+* CTA: “View Full Portfolio” → Portfolio page
+
+Testimonials Preview
+
+* 2-3 client reviews per region
+* CTA: “Read More Testimonials” → Testimonials page
+
+Why Choose Me / USP
+
+* Highlight 3-4 unique points (Proven results, Region expertise, Transparent reporting, Affordable packages)
+
+Call-to-Action Section
+
+* CTA: “Request Your Free SEO Audit Today” → Contact page
+* Keywords: hire local seo expert, local seo expert near me
+
+Footer / Contact Info
+
+* Quick links, social icons, email, phone, newsletter signup
+
+---
+
+2. About Page
+
+* Personal Bio: Fatema Akter
+* Phone: 01516089599
+* Skills & Certifications, Approach / Methodology, Why Choose Me?
+* CTA: “Hire Me / Get Consultation” → Contact page
+* Keywords: local seo expert, seo consultant, hire seo expert
+* WhatsApp popup: active on About page
+
+---
+
+3. Services Page
+
+* On-Page SEO, Off-Page SEO, Local Citation Management, Google Business Profile Optimization, Technical SEO, Keyword Research & Strategy
+* CTA: “Request a Free SEO Audit” → Contact page
+* Region-specific descriptions allowed (US/UK/Italy content must stay in its region)
+
+---
+
+4. Region Pages (US / UK / Italy)
+   Purpose: প্রতিটি region-এর জন্য dedicated content & keyword focus।
+
+US Page
+
+* Hero: “Top Local SEO Expert in \[City]”
+* Services tailored to US clients
+* Portfolio / Case Studies: US projects only
+* Testimonials: US clients only
+* CTA → Contact page
+* Keywords: us local seo expert london, tampa local seo experts, local seo expert houston
+
+UK Page
+
+* Hero: “Top Local SEO Expert in \[City]”
+* Services tailored to UK clients
+* Portfolio / Case Studies: UK projects only
+* Testimonials: UK clients only
+* CTA → Contact page
+* Keywords: uk local seo expert london, seo expert for local businesses oxford, uk local seo expert near me
+
+Italy Page
+
+* Hero: “Top Local SEO Expert in \[City]”
+* Services tailored to Italy clients
+* Portfolio / Case Studies: Italy projects only
+* Testimonials: Italy clients only
+* CTA → Contact page
+* Keywords: experte seo local madrid, local seo expert barcelona, experte seo local
+
+Important: কোন region-এর content অন্য region page-এ যাবে না।
+
+---
+
+5. Portfolio / Case Studies Page
+
+* Sections: US Projects, UK Projects, Italy Projects
+* Each project labeled clearly by region
+* CTA → Contact page
+* Keywords: region-specific local SEO project keywords
+
+---
+
+6. Testimonials Page
+
+* Sections: US, UK, Italy
+* Each testimonial labeled by region
+* CTA → Contact page
+
+---
+
+7. Contact Page
+
+* Contact Form: Name, Email, Message
+* Email & Phone info (Owner: Fatema Akter, 01516089599)
+* Optional map / address
+* CTA: “Schedule Consultation”
+* WhatsApp popup: active on Contact page
+* Keywords: hire local seo expert, local seo expert near me
+
+---
+
+Design & Technology Instructions
+
+* HTML5 semantic tags (<header>, <section>, <article>, <footer>)
+* CSS3: Flexbox/Grid, hover effects, responsive layout
+* JS: Smooth scroll, Portfolio slider, Contact form validation, Scroll-to-top button
+* Color scheme: Blue (#007BFF), White (#FFFFFF), Gray (#F5F5F5)
+* Font: Google Fonts (Poppins / Roboto)
+* Navbar: Sticky + responsive mobile menu
+* Footer: Quick links, social icons, newsletter signup
+
+Developer Note: প্রতিটি region page সম্পূর্ণ আলাদা keyword এবং content থাকবে। এই গাইড অনুসরণ করে ওয়েবসাইট বানালে US, UK এবং Italy জন্য আলাদা SEO optimized pages তৈরি হবে। WhatsApp popup এবং Scroll-to-top button সকল page-এ থাকবে। Blog page থাকবে না।
