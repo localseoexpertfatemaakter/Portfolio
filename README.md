@@ -10,20 +10,11 @@ As a Local SEO Consultant, I develop customized SEO strategies based on each reg
 
 My core services include:
 
-Local SEO Optimization:
-Setting up and optimizing Google Business Profiles to improve your visibility on Google Maps and local searches.
-
-On-Page SEO:
-Optimizing your website’s content, structure, and keywords for maximum search engine performance and conversion.
-
-Off-Page SEO and Citations:
-Building credibility through high-quality backlinks and accurate citation listings across trusted directories.
-
-Technical SEO:
-Improving your site’s structure, loading speed, and crawlability to ensure better indexing by search engines.
-
-Regional Keyword Research:
-Identifying region-specific keywords that align with how your local audience searches for your services.
+Local SEO Optimization: Setting up and optimizing Google Business Profiles to improve your visibility on Google Maps and local searches.
+On-Page SEO: Optimizing your website’s content, structure, and keywords for maximum search engine performance and conversion.
+Off-Page SEO and Citations: Building credibility through high-quality backlinks and accurate citation listings across trusted directories.
+Technical SEO: Improving your site’s structure, loading speed, and crawlability to ensure better indexing by search engines.
+Regional Keyword Research: Identifying region-specific keywords that align with how your local audience searches for your services.
 
 Regional Expertise
 
@@ -39,13 +30,9 @@ The Italian digital market is highly competitive and language-diverse. I special
 Proven Results
 
 Over the years, I have delivered measurable results for businesses across different industries and regions.
-
 Increased local visibility by 300% for a restaurant chain in Houston, USA.
-
 Achieved top 3 keyword rankings for a law firm in Central London.
-
 Boosted organic traffic by 250% for a luxury fashion boutique in Milan.
-
 These results demonstrate how region-focused SEO can transform local businesses into recognized market leaders.
 
 Client Testimonials
@@ -62,15 +49,10 @@ Client Testimonials
 Why Choose Fatema Akter
 
 Proven Experience – Years of success delivering measurable SEO growth for local businesses.
-
 Regional Expertise – In-depth understanding of US, UK, and Italian search markets.
-
 Transparent Reporting – Regular, easy-to-understand reports that show your progress.
-
 Data-Driven Strategy – Every decision backed by analytics and research.
-
 Affordable Packages – Flexible plans designed for small and medium-sized businesses.
-
 Client-Focused Approach – I care about long-term results, not just rankings.
 
 Request Your Free SEO Audit
@@ -79,6 +61,5 @@ If you want to improve your local rankings and attract more customers, request a
 
 Contact Information:
 Phone: 01516089599
-Email: contact@fatemaaakter.com
-
-Website: www.fatemaaakter.com
+Email: fatemaakter15103@gmail.com
+Website: https://localseoexpertfatemaakter.github.io/Portfolio/
